@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost.git
